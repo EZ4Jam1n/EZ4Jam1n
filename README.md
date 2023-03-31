@@ -8,7 +8,7 @@
   </div>
 
   ### Hi there  💎
-- 🎧: 音乐网站：beat.h4ck.me
+- 🎧: 音乐网站：http://beat.h4ck.me
   
     <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" /><br>
