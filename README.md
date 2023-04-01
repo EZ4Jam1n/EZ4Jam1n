@@ -6,7 +6,7 @@
 
 - 🎵 http://beat.h4ck.me
 
-- 🔭 I'm learning at Peking University.
+- 🔭 I'm learning at shenzhen.
 
 - 🌱 Focus on 
   - 🚤 TypeScript
