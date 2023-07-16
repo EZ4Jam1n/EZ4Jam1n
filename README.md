@@ -4,7 +4,7 @@
 
 <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/> Hi, I'm Bao Zheming, u can call me benjamin。
 
-- 🎵 http://beatstudio.eu.org
+- 🎵 http://zheming.link
 
 - 🔭 I'm learning at shenzhen.
 
