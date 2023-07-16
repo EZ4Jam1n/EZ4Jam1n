@@ -1,4 +1,4 @@
-<a href="http://beatstudio.eu.org/">
+<a href="http://zheming.link/">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%22)&center=true&size=27" alt="Typing SVG" />
 </a>
 
@@ -9,7 +9,6 @@
 - 🔭 I'm learning at shenzhen.
 
 - 🌱 Focus on 
-  - 🚤 TypeScript
   - 🍀 Java
   - 🌿 Vue
   - 🚀 Go
