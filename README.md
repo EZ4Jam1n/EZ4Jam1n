@@ -6,9 +6,8 @@
 
 - 🎵 http://zheming.link
 
-- 🔭 I'm learning at shenzhen.
+- 🔭 I'm learning at beijing/shenzhen.
 
 - 🌱 Focus on 
   - 🍀 Java
-  - 🌿 C++
   - 🚀 Go
